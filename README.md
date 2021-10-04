@@ -15,6 +15,10 @@
     - ⚡ Fun fact: ...
 -->
 
+<p>
+    I tried to fix the world, but God wouldn't give me his source code.
+</p>
+
 <p align="center">
     <img border="0" src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&username=nitro721" /><br />
     <img border="0" src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=10&layout=compact&theme=github_dark&username=nitro721" />
