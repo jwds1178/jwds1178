@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm James! 👋
 
 <!--
     **nitro721/nitro721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,6 @@
 -->
 
 <p align="center">
-    <img border="0" src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=github_dark&username=nitro721" />
+    <img border="0" src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=github_dark&username=nitro721" /><br />
+    <img border="0" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=nitro721" />
 </p>
