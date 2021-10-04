@@ -1,4 +1,4 @@
-### Hey there, I'm James! 👋
+<!-- ### Hey there, I'm James! 👋 -->
 
 <!--
     **nitro721/nitro721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
