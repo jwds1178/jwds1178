@@ -15,6 +15,6 @@
     - ⚡ Fun fact: ...
 -->
 
-<p style="text-align:center;">
+<p align="center">
     <img border="0" src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&username=nitro721" />
 </p>
