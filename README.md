@@ -16,5 +16,5 @@
 -->
 
 <p align="center">
-    <img border="0" src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&username=nitro721" />
+    <img border="0" src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=github_dark&username=nitro721" />
 </p>
