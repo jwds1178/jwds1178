@@ -1,7 +1,7 @@
 <!-- ### Hey there, I'm James! 👋 -->
 
 <!--
-    **nitro721/nitro721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    **jwds1178/jwds1178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
     Here are some ideas to get you started:
 
@@ -20,6 +20,6 @@
 </p>
 
 <p align="center">
-    <img border="0" src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&username=nitro721" /><br />
-    <img border="0" src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=10&layout=compact&theme=github_dark&username=nitro721" />
+    <img border="0" src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&username=jwds1178" /><br />
+    <img border="0" src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=10&layout=compact&theme=github_dark&username=jwds1178" />
 </p>
